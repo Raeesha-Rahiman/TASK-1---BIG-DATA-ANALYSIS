@@ -14,10 +14,9 @@ MENTOR : NEELA SANTOSH KUMAR
 
 
 #### DESCRIPTION OF PROJECT:
-OVERVIEW
-This project focuses on performing large-scale e-commerce data analysis using Dask to efficiently handle a dataset containing over 2 million rows.
-
-The goal of this analysis is to extract meaningful insights from raw transactional data by applying data cleaning, exploration, and analysis techniques. The findings aim to support data-driven decision-making by identifying patterns in customer purchasing behavior, product trends, and ordering habits.
+#### OVERVIEW
+In this project, I worked with an e-commerce dataset containing more than 2 million records.by using Dask library for handling large-scale data processing, I cleaned, explored, and analyzed the data to uncover valuable insights for business decision-making. 
+##### The primary goal of the project is to enhance customer retention and drive higher product purchases through data-driven strategies. 
 
 ### Objectives
 - Analyze customer behavior and purchasing patterns
