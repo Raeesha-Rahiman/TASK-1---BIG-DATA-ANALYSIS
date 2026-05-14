@@ -1,4 +1,4 @@
-# TASK-1 BIG-DATA-ANALYSIS
+# TASK-1 BIG_DATA_ANALYSIS
 
 COMPANY :CODTECH IT SOLUTIONS
 
@@ -32,18 +32,18 @@ In this project, I worked with an e-commerce dataset containing more than 2 mill
 - Matplotlib & Seaborn – Data visualization
 
 ### Dataset Description
-Order_id = Unique identifier of order
-user_id = unique identifier for each user
-order number = the number that represnt that how many time user has purchased
-order = day of the week was placed
-order_hours_of the day = the hours of the day placed
-days_since_prior_order = Gap taken to reorder
-product_id = ID of the product
-add_to_cart_order = Number of item added to cart
-reordered = Item reordered count
-department_id = Unique identifier of department
-department =Name of department
-product_name = Product name
+- Order_id = Unique identifier of order
+- user_id = unique identifier for each user
+- order number = the number that represnt that how many time user has purchased
+- order = day of the week was placed
+- order_hours_of the day = the hours of the day placed
+- days_since_prior_order = Gap taken to reorder
+- product_id = ID of the product
+- add_to_cart_order = Number of item added to cart
+- reordered = Item reordered count
+- department_id = Unique identifier of department
+- department =Name of department
+- product_name = Product name
 
 
 ### Key Insights
